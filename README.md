@@ -11,6 +11,7 @@ Decided to create a very simple yet very fast Github view bot
 
 ## Features
 - Bot any raw link
+- Code is obfused to stop skidders :)
 
 # Botting Time
 - All tested with 750 threads
