@@ -14,23 +14,22 @@ Decided to create a very simple yet very fast Github view bot
 - Code is obfused to stop skidders :)
 
 # Botting Time
-- All tested with 750 threads
-
-506 views per min
-30,360 views per hour
-151,800 views per 5 hours
-728,640 views per 24 hours
+`All tested with 750 threads`
+- 506 views per min
+- 30,360 views per hour
+- 151,800 views per 5 hours
+- 728,640 views per 24 hours
 
 
 # My PC specs (used for the view amount->time):
-Ryzen 7 2700x
-Geforce gtx 1070
-16gb ram
-X470 aorus gaming 7 motherboard
-500gb m.2
-500gb ssd
-4tb hdd
-Windows 10
+- Ryzen 7 2700x
+- Geforce gtx 1070
+- 16gb ram
+- X470 aorus gaming 7 motherboard
+- 500gb m.2
+- 500gb ssd
+- 4tb hdd
+- Windows 10
 
 ## Install Instructions
 1. Download or Gitclone this project
