@@ -13,7 +13,7 @@ Decided to create a very simple yet very fast Github view bot
 - Bot any raw link
 - Code is obfused to stop skidders :)
 
-# Botting Time
+### Botting Time
 `All tested with 750 threads`
 - 506 views per min
 - 30,360 views per hour
@@ -21,7 +21,7 @@ Decided to create a very simple yet very fast Github view bot
 - 728,640 views per 24 hours
 
 
-# My PC specs (used for the view amount->time):
+### My PC specs (used for the view amount->time):
 - Ryzen 7 2700x
 - Geforce gtx 1070
 - 16gb ram
